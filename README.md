@@ -1,11 +1,11 @@
 # Hi, I'm Pratikshya Nayak 🚀
 
 ### 🛠️ The Mission: Transitioning to SDE-2 (Backend Specialist)
-I am a Backend Engineer at **Genpact**. This profile is a live documentation of my 2026 upskilling journey—moving from a Full-Stack Learner to a High-Performance Java Architect.
+I am a Fullstack Developer. This profile is a live documentation of my 2026 upskilling journey—moving from a Full-Stack Learner to a High-Performance Java Architect.
 
 ---
 
-## 📈 2026 Upskilling Tracker (Deadline: March End)
+## 📈 2026 Upskilling Tracker
 
 | Phase | Focus Area | Status | Key Milestone |
 | :--- | :--- | :--- | :--- |
@@ -16,12 +16,11 @@ I am a Backend Engineer at **Genpact**. This profile is a live documentation of 
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stacks:
 
 - **Languages:** Java (8/17/21), SQL
 - **Backend:** Spring Boot, Spring Data JPA, Spring Security
 - **Performance:** JVM Memory Tuning, Multithreading, Virtual Threads
-- **Cloud/Infra:** Docker, AWS (EC2, S3), Jenkins
 
 ---
 
