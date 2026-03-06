@@ -1,9 +1,7 @@
 # Hi, I'm Pratikshya Nayak 🚀
 
 ### 🛠️ The Mission: Transitioning to SDE-2 (Backend Specialist)
-I am a Fullstack Developer. This profile is a live documentation of my 2026 upskilling journey—moving from a Full-Stack Learner to a High-Performance Java Architect. Currently upskilling in public — documenting every step of the journey.
-
----
+I am a Fullstack Developer. This profile is a live documentation of my 2026 upskilling journey—moving from a Full-Stack Learner to a High-Performance Backend Engineer. Currently upskilling in public — documenting every step of the journey.
 
 ---
 
