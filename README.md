@@ -18,12 +18,11 @@ I'm following two parallel learning tracks and gradually bringing them together.
 | ------- | --------------------------------------------------- | ------------- |
 | Phase 1 | Java + Spring Boot + REST + PostgreSQL              | 🟡 Active     |
 | Phase 2 | API Design + Security + Testing + JPA/Hibernate     | 🟡 Active     |
-| Phase 3 | Redis + Async Processing + Kafka                    | ⚪ Planned     |
-| Phase 4 | Distributed Systems + System Design + Observability | ⚪ Planned     |
-| Phase 5 | AWS + Production Engineering                        | ⚪ Planned     |
-| Phase 6 | GenAI Foundations + LLM APIs + Prompting            | 🟡 Active     |
-| Phase 7 | RAG + Embeddings + Vector Databases                 | 🟡 Upcoming   |
-| Phase 8 | Agents + Tool Calling + Agentic AI                  | ⚪ Upcoming    |
+| Phase 3 | Distributed Systems + System Design + Observability | ⚪ Planned     |
+| Phase 4 | AWS + Production Engineering                        | ⚪ Planned     |
+| Phase 5 | GenAI Foundations + LLM APIs + Prompting            | 🟡 Active     |
+| Phase 6 | RAG + Embeddings + Vector Databases                 | 🟡 Upcoming   |
+| Phase 7 | Agents + Tool Calling + Agentic AI                  | ⚪ Upcoming    |
 | Final   | Backend + GenAI → AI Developer Assistant            | ⚪ In Progress |
 
 ---
@@ -69,7 +68,6 @@ The project starts as a **simple Spring Boot backend** and progressively evolves
 * Caching
 * Async processing
 * Messaging
-* Kafka
 * Event-driven architecture
 * Retries
 * Idempotency
